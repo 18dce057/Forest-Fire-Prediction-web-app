@@ -1,4 +1,4 @@
-# Forest-Fire-Prediction-web-app
+# Forest-Fire-Prediction-Web-App
 
 Forest fire prediction is a web application which is use to predict the probability of fire occurring in forest.
 For prediction it will take input Oxygen, Humidity and temperature.
@@ -8,13 +8,13 @@ Temperature: Obviously for a fire to take place, heat is favorable. Hence high t
 Humidity: Obviously Humid weather is unfavorable for a fire, whereas a dry weather is. Therefore, higher the humidity, lower the probability of a fire taking place.
 
 
-Gantt Chart
+# Gantt Chart
 ![image](https://user-images.githubusercontent.com/58872789/119321169-f7e61000-bc99-11eb-9fa7-7f3cb12bfda1.png)
 
 
 
 
-Implementation
+# Implementation
 
 
 https://user-images.githubusercontent.com/58872789/119320569-5c549f80-bc99-11eb-89a0-ec27d886a262.mp4
